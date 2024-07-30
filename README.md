@@ -2,6 +2,8 @@
 
 This project is a simple, responsive login and registration form built with HTML, CSS, and JavaScript. It provides a user-friendly interface for users to sign in or sign up with options for social media authentication.
 
+visit - (https://vijayselvaraj19.github.io/project-1-login-signup-page/)
+
 ## Features
 
 - **Sign In Form**: Allows users to sign in with their username and password.
@@ -29,5 +31,5 @@ To get started with this project, simply clone the repository and open `index.ht
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/VijaySelvaraj19/project-1-login-signup-page.git
 
