@@ -18,7 +18,6 @@ visit - (https://vijayselvaraj19.github.io/project-1-login-signup-page/)
 - **CSS**: Styling of the forms for a visually appealing design.
 - **JavaScript**: Functionality for form interactions and validation (in `script.js`).
 
-
 ## Getting Started
 
 To get started with this project, simply clone the repository and open `index.html` in your preferred web browser.
